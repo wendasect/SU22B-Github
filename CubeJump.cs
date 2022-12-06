@@ -5,7 +5,7 @@ using UnityEngine;
 public class CubeJump : MonoBehaviour
 {
     [SerializeField]
-    float jumpForce = 500;
+    float jumpForce = 200;
 
     Rigidbody rb; 
     
